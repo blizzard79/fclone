@@ -2,7 +2,7 @@
 	"name": "FClone-Bot",
 	"description": "Fclone Telegram Bot",
 	"repository": "https://github.com/blizzard79/fclone",
-        "logo": "https://i0.hdslb.com/bfs/article/cc9c9e127a86db1ff84ed9d8a3049e2371365be0.jpg",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyBRC5kHtf61q2qplf5AiODAh1m_YHeNyAEA&usqp=CAU",
 	"keywords": ["Fclone","TG"],
 	"env": {
 		"BOT_TOKEN": {
